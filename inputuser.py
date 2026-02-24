@@ -5,7 +5,8 @@ a = int(input("num1 = "))
 b = int(input("num2 = "))
 sum = a + b 
 print(sum)
-print(type(sum))
+print(type(sum))ut status
+
 
 a = float(input("F1 ="))
 b = float(input("F2 ="))
